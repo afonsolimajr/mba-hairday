@@ -14,7 +14,6 @@ export function hoursLoad({ date }) {
             available: isHourPast
         }
 
-        console.log(ret)
         return ret
     })
 
